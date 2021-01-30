@@ -1,0 +1,20 @@
+{
+  "name": "week01",
+  "version": "1.0.0",
+  "description": "Tutorial for week 1.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/usevalue/nodejstutorials/week01/"
+  },
+  "keywords": [
+    "node",
+    "tutorial",
+    "buffalo"
+  ],
+  "author": "James Pollard",
+  "license": "GPL-3.0"
+}
