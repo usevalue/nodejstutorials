@@ -31,18 +31,11 @@ p {
   font-size:15px;
   line-height:1.5
 }
-.urbanhistory {
+.textbox {
     text-align: justify;
     margin-right: 80px;
     margin-left: 80px;
     background-color: white;
-  }
-.urbanarchae {
-    text-align: justify;
-    margin-bottom: 50px;
-    margin-right: 80px;
-    margin-left: 80px;
-    background-color: white
   }
 a:link, a:visited {
   background-color: #f44336;
@@ -57,12 +50,6 @@ a:hover, a:active {
 }
 .cityofthefuture1935 {
   text-align: center;
-}
-.cholera1 {
-  text-align: justify;
-  margin-right: 80px;
-  margin-left: 80px;
-  background-color: white;
 }
 .wp-block-quote {
   color: red;
