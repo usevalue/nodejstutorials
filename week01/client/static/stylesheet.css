@@ -1,0 +1,62 @@
+body {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/35/Side_Sectional_View_of_Tenement_House%2C_38_Cherry_Street%2C_N.Y.jpg");
+  background-color: #fffedd;
+    } 
+h1 {
+    color: white;
+    text-align: center;
+    background: black;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+h3 {
+    color: white;
+    text-align: left;
+    background: black;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  h5 {
+    color: white;
+    text-align: left;
+    background: black;
+    margin-left: 50px;
+    margin-right: 50px;
+  } 
+p {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size:15px;
+  line-height:1.5
+}
+.textbox {
+    text-align: justify;
+    margin-right: 80px;
+    margin-left: 80px;
+    background-color: white;
+  }
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover, a:active {
+  background-color: red;
+}
+.cityofthefuture1935 {
+  text-align: center;
+}
+.wp-block-quote {
+  color: red;
+  text-align: center;
+ }
+.center { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
